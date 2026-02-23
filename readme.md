@@ -5,7 +5,7 @@ Some particles and gasses have a strong seasonal component due to temperature an
 When working with data on these components, adjusting for the seasonality is extremely important since different periods can have 2-4 fold difference due to traffic and family habits.
 ## Install Environment 
 ```
-conda env create -f Gaussian-environment.yml
+conda env create -f clinical_gaussian.yml
 ```
 ## Data
 The data is a synthetic version of the Original COPSAC data. It has the household ID and the measurement of the house where it was taken.
