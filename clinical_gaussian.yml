@@ -1,4 +1,4 @@
-name: gaussion_process
+name: clinical_gaussian
 channels:
   - defaults
   - conda-forge
