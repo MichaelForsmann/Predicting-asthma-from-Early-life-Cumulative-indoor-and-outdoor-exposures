@@ -312,4 +312,4 @@ dependencies:
       - torchvision==0.22.0+cu118
       - tqdm==4.67.1
       - triton==3.3.0
-prefix: /data/michaelf/miniconda3/envs/gaussion_process
+prefix: /data/michaelf/miniconda3/envs/clinical_gaussian
