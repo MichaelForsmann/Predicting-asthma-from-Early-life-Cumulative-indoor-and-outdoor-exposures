@@ -13,5 +13,6 @@ dependencies:
   - ipywidgets
   - openpyxl
   - shap
+  - pip
   - pip:
       - arviz[h5netcdf,matplotlib]
