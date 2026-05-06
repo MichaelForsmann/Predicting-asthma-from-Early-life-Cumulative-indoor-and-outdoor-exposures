@@ -1,8 +1,10 @@
-name: Numpyro_clinical_regression
+name: clinical_regression
 channels:
+  - conda-forge
   - bioconda
   - defaults
 dependencies:
+  - python>=3.10
   - jupyterlab
   - numpyro
   - pandas
@@ -11,4 +13,3 @@ dependencies:
   - ipywidgets
   - openpyxl
   - shap
-prefix: /data/michaelf/miniconda3/envs/Numpyro_clinical_regression
