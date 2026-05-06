@@ -1,0 +1,14 @@
+name: Numpyro_clinical_regression
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpyro
+  - pandas
+  - seaborn
+  - scikit-learn
+  - ipywidgets
+  - openpyxl
+  - shap
+prefix: /data/michaelf/miniconda3/envs/Numpyro_clinical_regression
