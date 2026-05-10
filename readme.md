@@ -13,11 +13,11 @@ The outdoor sources are the total area of the outdoor source as an approximation
 The synthetic data was created since it is clinical data, which doesn't allow us to open-source it. 
 The data is mostly there to showcase the application and that the code is working.
 
-Example code for the paper is in Traning
+Example code for the paper is in Examples 
 
-Plots from running the code get send to the plots folder 
+Plots from running the code get send to the Plots
 
-Models is in the modelling folder 
+Models is in the Models 
 
 Performence of the Models and the pickle files are in Performence the structure can easierly be seen after running one of the example data.
 
